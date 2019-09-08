@@ -4,6 +4,10 @@ Web Simple Todolist  With  ReactJs.
 
 In the project directory, you can run:
 
+### `npm install`
+
+Runs command and will create node_modules
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
